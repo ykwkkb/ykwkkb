@@ -11,9 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 个人简历
+##个人信息
+姓名：易凯巍
+性别：男
+民族：汉
+## 联系方式
+电话：13594*****
+qq：13613***
+## 工作经历
+工作年龄：5
+
 
 - Bulleted
 - List
